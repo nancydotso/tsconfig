@@ -1,0 +1,10 @@
+{
+  "name": "@nancyso/tsconfig",
+  "version": "0.1.0",
+  "author": "Emerson Laurentino",
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-library.json"
+  ]
+}
